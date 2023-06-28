@@ -13,6 +13,7 @@ otu_labels for the text values.
 
 sample metadata, i.e., an individual's demographic information displayed in the dash board
 
-
+The Interactive Belly button dashboard can be viewed in the following  git hub page
+https://birundhavaratharajan.github.io/belly-button-challenge/
 
 
